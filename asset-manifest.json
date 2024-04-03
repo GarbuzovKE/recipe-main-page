@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recipe-main-page/static/css/main.1209fcaf.css",
+    "main.js": "/recipe-main-page/static/js/main.b9e7dcb9.js",
+    "static/media/Outfit-VariableFont_wght.ttf": "/recipe-main-page/static/media/Outfit-VariableFont_wght.00c2ed1a3bf798b0da27.ttf",
+    "static/media/YoungSerif-Regular.ttf": "/recipe-main-page/static/media/YoungSerif-Regular.564996966d3552bf6282.ttf",
+    "static/media/image-omelette.jpeg": "/recipe-main-page/static/media/image-omelette.98c8ed59c5ae707e58ea.jpeg",
+    "index.html": "/recipe-main-page/index.html",
+    "main.1209fcaf.css.map": "/recipe-main-page/static/css/main.1209fcaf.css.map",
+    "main.b9e7dcb9.js.map": "/recipe-main-page/static/js/main.b9e7dcb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1209fcaf.css",
+    "static/js/main.b9e7dcb9.js"
+  ]
+}
