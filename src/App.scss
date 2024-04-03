@@ -1,0 +1,38 @@
+main {
+  background-color: var(--white);
+  width: clamp(375px, 80%, 700px);
+  @media screen and (min-width: 767px) {
+    border-radius: 1.5rem;
+  }
+
+  h1 {
+    color: var(--h1-font-color);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+  }
+}
+
+.header-wrapper {
+  width: 100%;
+  @media screen and (min-width: 767px) {
+    padding: 2rem 2rem 0 2rem;
+  }
+  .header-img {
+    width: 100%;
+    border-radius: none;
+    @media screen and (min-width: 767px) {
+      border-radius: 1rem;
+    }
+  }
+}
+
+#content {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+
+  h1 {
+    line-height: 1;
+  }
+}

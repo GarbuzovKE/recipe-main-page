@@ -1,0 +1,21 @@
+.nutrition {
+  p {
+    margin: 1rem 0;
+  }
+
+  li {
+    display: flex;
+    padding: 0.5rem 2rem;
+    border-bottom: 1px solid var(--hr-line);
+    &:last-child {
+      border-bottom: none;
+    }
+    div {
+      width: 50%;
+    }
+  }
+}
+
+.value {
+  color: var(--h2-font-color);
+}

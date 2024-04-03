@@ -1,0 +1,13 @@
+.ingredients {
+  border-bottom: 1px solid var(--hr-line);
+  line-height: 2;
+  ul {
+    padding: 0.5rem 0 1rem 1.5rem;
+    li {
+      padding-left: 1rem;
+      &::marker {
+        color: var(--h2-font-color);
+      }
+    }
+  }
+}
